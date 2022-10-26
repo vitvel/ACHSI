@@ -2,15 +2,15 @@ Analytic continuation of the nested harmonic sums with real negative and positiv
 
 This is the extended version of database and MATHEMATICA-code used in the paper by Velizhanin V.N. "Analytic continuation of harmonic sums with imaginary indices near integer values", https://arxiv.org/abs/2210.14214
 
-The ACHSI.m file contains all the functions required for analytic continuation. The list of functions is as follows:
-    HS - definition of nested harmonic sums
-    ZSToHS - convert Euler-Zagier sums to usual nested harmonic sums
-    SToPsi - convert nested harmonic sums to combination of Psi-functions and MZV's
-    Li1Extract - extract Li({1},{1}) from multiple polylogarithm    
-    ZetaSubs - MZV's substitution
-    SDiffW - differentation of Z-sums, harmonic sums or MZV over w
-    PsiAC - analytic continuation of Psi-function
-    HSAC - analytic continuation of nested harmonic sum
+The ACHSI.m file contains all the functions required for analytic continuation. The list of functions is as follows:  
+    HS - definition of nested harmonic sums  
+    ZSToHS - convert Euler-Zagier sums to usual nested harmonic sums  
+    SToPsi - convert nested harmonic sums to combination of Psi-functions and MZV's  
+    Li1Extract - extract Li({1},{1}) from multiple polylogarithm  
+    ZetaSubs - MZV's substitution  
+    SDiffW - differentation of Z-sums, harmonic sums or MZV over w  
+    PsiAC - analytic continuation of Psi-function  
+    HSAC - analytic continuation of nested harmonic sum  
     LiNSubs - numerical values for MZV's basis
 
 The ACHSI.m file contains examples of the above functions.
