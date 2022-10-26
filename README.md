@@ -13,7 +13,7 @@ The ACHSI.m file contains all the functions required for analytic continuation. 
     HSAC - analytic continuation of nested harmonic sum  
     LiNSubs - numerical values for MZV's basis
 
-The ACHSI.m file contains examples of the above functions.
+The ACHSIexamples.m file contains examples of the above functions.
 
 The files LiSubsRew1w6.m and LiSubsImw1w6.m contain relations between multiple polylogarithms with arguments -1, 1, -I, I up to weight 6. The basis of multiple polylogarithms is denoted as LiB[a1, a2, ..., aL]
 
